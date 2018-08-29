@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+}
+
+.contenedor {
+  background-image: url(../images/bg.jpeg); 
+  background-size: cover;
+  height: 400px;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  max-width: 2000px;
+  margin: 0 auto;
+}
+
+.text-header {
+  text-align: center;
+  position: absolute;
+  left: 50%;
+  color: white;
+  margin: 40px;
+}
+
+.button{
+padding: 7px 10px;
+border-radius: 5px;
+color: #fff;
+border: none;
+}
+
+.blue{
+	background-color: dodgerblue;
+	background-position: bottom;
+
+}
+.green{
+  background-color: dodgerblue;
+  background-position: bottom;
+
+}
